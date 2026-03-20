@@ -55,4 +55,4 @@ Sample **microservices architecture using .NET**, demonstrating service separati
 ## 🌐 Connect with me
 
 LinkedIn  
-www.linkedin.com/in/sebastiancgomez
+[linkedin.com/in/sebastiancgomez](https://www.linkedin.com/in/sebastiancgomez)
