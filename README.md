@@ -25,13 +25,13 @@ Java | Spring Boot | WebFlux | .NET | Docker | Azure | SQL | Microservices | RES
 
 ## 📌 Featured Projects
 
-### 📚 Book Catalog Reactive API
+### 📚 Reactive Catalog API
 Reactive REST API built with **Spring Boot + WebFlux**, featuring dynamic filtering, OpenAPI documentation and deployed to Azure.
 
-🔗 https://github.com/sebastiancgomez/reactive-catalog-api
+🔗 https://github.com/sebastiancgomez/reactive-catalog-api/
 
 Live API:
-🔗 https://bookcatalog-api.azurecontainerapps.io
+🔗 https://bookcatalog-app.lemonflower-9dbaf244.canadacentral.azurecontainerapps.io/
 
 ---
 
