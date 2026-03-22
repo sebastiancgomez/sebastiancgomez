@@ -35,6 +35,17 @@ Live API:
 
 ---
 
+### ⚡ Serverless Notes API
+
+Serverless REST API built with **AWS Lambda + Python**, featuring JWT authentication, role-based access control, and full CRUD operations. Deployed on AWS API Gateway.
+
+🔗 https://github.com/sebastiancgomez/serverless-notes-api
+
+Live API:
+🔗 https://zeoi4yrka3.execute-api.us-east-2.amazonaws.com/default/notes/
+
+---
+
 ### 🛒 Ecommerce Microservices
 Sample **microservices architecture using .NET**, demonstrating service separation, containerization and backend service communication.
 
