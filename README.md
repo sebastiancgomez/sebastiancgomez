@@ -12,8 +12,10 @@ I have experience designing and developing backend systems using Java and .NET t
 - Spring Boot
 - Reactive Systems (WebFlux)
 - Microservices Architecture
-- Cloud (Azure)
+- Cloud (Azure & AWS)
 - .NET Backend Development
+- Python
+- Serverless Architecture (AWS Lambda)
 
 ---
 
@@ -60,6 +62,8 @@ Sample **microservices architecture using .NET**, demonstrating service separati
 - Microservices architectures
 - Cloud-ready backend services
 - Clean and maintainable backend code
+- Serverless functions and event-driven systems
+- Financial and transactional systems at scale
 
 ---
 
